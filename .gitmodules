@@ -1,0 +1,3 @@
+[submodule "subA"]
+	path = subA
+	url = D:/work/useGitSubmodule/subPrjA
